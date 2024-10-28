@@ -13,7 +13,7 @@ JAX is a library for high-performance numerical computing and machine learning r
 | [jax-cfd](https://github.com/google/jax-cfd) <br> ![Github Star](https://img.shields.io/github/stars/google/jax-cfd) <br> ![Github Fork](https://img.shields.io/github/forks/google/jax-cfd) | ![License](https://img.shields.io/github/license/google/jax-cfd) | Notebooks, demos  | - | 🟢 | - | - | 🟢 | - | - | - |  - |
 | [XLB](https://github.com/Autodesk/XLB) <br> ![Github Star](https://img.shields.io/github/stars/Autodesk/XLB) <br> ![Github Fork](https://img.shields.io/github/forks/Autodesk/XLB) | ![License](https://img.shields.io/badge/License-Apache_2.0-green.svg) | Demos  | - | 🟢 | - | - | 🟢 | - | - | 🟢 |  - |
 | [jax-md](https://github.com/jax-md/jax-md) <br> ![Github Star](https://img.shields.io/github/stars/jax-md/jax-md) <br> ![Github Fork](https://img.shields.io/github/forks/jax-md/jax-md) | ![License](https://img.shields.io/github/license/jax-md/jax-md) | YouTube, Notebooks, demos  | - | - | - | - | 🟢 | - | - | - |  🟢 |
-
+| [JaxSSO](https://github.com/GaoyuanWu/JaxSSO) <br> ![Github Star](https://img.shields.io/github/stars/GaoyuanWu/JaxSSO) <br> ![Github Fork](https://img.shields.io/github/forks/GaoyuanWu/JaxSSO) | ![License](https://img.shields.io/github/license/GaoyuanWu/JaxSSO) | Notebooks | - | - | - | - | - | 🟢 | - | - |  - |
 # Support educational repository
 - [machine-learning-and-simulation](https://github.com/Ceyron/machine-learning-and-simulation) ![Github Star](https://img.shields.io/github/stars/Ceyron/machine-learning-and-simulation) ![Github Fork](https://img.shields.io/github/forks/Ceyron/machine-learning-and-simulation) 
 
